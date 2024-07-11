@@ -1,4 +1,4 @@
-[Link](https://the-wild-oasis-website-gldn.vercel.app/);
+[Link](https://the-wild-oasis-website-gldn.vercel.app/)
 
 #### What did I learn while coding this project?
 
